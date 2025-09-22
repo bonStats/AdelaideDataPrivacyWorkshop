@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Adelaide Data Privacy Workshop",
     "section": "",
-    "text": "26–27th November 2025 at the University of Adelaide\nOrganised by Dr Joshua Bon\n\nThe School of Computer and Mathematical Sciences and Adelaide Data Science Centre invite you to join the Adelaide Data Privacy Workshop held 26–27th November 2025 at the University of Adelaide.\nThis two-day event will explore the foundations of data privacy in mathematics, statistics, and computer science. We welcome participation from researchers, students and practitioners working in data privacy or interested in learning about data privacy.\n\n\n\n\n\n\n\n\n\nWe are delighted to host Prof Murray Pollock (Newcastle University, UK) and Dr James Bailie (Chalmers University of Technology, Sweden), who will share their expertise on Bayesian data fusion, federated learning, and the mathematics of data privacy. The full program will enjoy contributed talks, discussions, and opportunities for networking.\nRegistration (free!) and abstract submission can be found here."
+    "text": "26–27th November 2025 at the University of Adelaide\nOrganised by Dr Joshua Bon\nThe School of Computer and Mathematical Sciences and Adelaide Data Science Centre invite you to join the Adelaide Data Privacy Workshop held 26–27th November 2025 at the University of Adelaide.\nThis two-day event will explore the foundations of data privacy in mathematics, statistics, and computer science. We welcome participation from researchers, students and practitioners working in data privacy or interested in learning about data privacy.\nWe are delighted to host Prof Murray Pollock (Newcastle University, UK) and Dr James Bailie (Chalmers University of Technology, Sweden), who will share their expertise on Bayesian data fusion, federated learning, and the mathematics of data privacy. The full program will enjoy contributed talks, discussions, and opportunities for networking.\nRegistration1 and abstract submission can be found here."
   },
   {
     "objectID": "index.html#organised-by-dr-joshua-bon",
@@ -18,7 +18,7 @@
     "href": "rego.html",
     "title": "Registration",
     "section": "",
-    "text": "&lt;p&gt;Loading…&lt;/p&gt;"
+    "text": "Registration is free but a requirement to attend!\n\n&lt;p&gt;Loading…&lt;/p&gt;"
   },
   {
     "objectID": "schedule.html",
@@ -40,5 +40,12 @@
     "title": "Workshop Schedule",
     "section": "Thursday 27th November",
     "text": "Thursday 27th November\n\n\n\n\n\n\n\n\n\nSession\nTime\nTitle\nSpeaker\n\n\n\n\nMorning\n9:30 - 12:30\n\n\n\n\nAfternoon\n13:30 - 16:30"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Adelaide Data Privacy Workshop",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nRegistration is free but mandatory!↩︎"
   }
 ]

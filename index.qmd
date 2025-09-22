@@ -28,6 +28,7 @@ wordcloud(words = words, freq = freq, scale=c(5,0.5), random.order = FALSE, rand
 
 We are delighted to host [Prof Murray Pollock](https://www.ncl.ac.uk/maths-physics/people/profile/murraypollock.html) (Newcastle University, UK) and [Dr James Bailie](https://jameshbailie.github.io) (Chalmers University of Technology, Sweden), who will share their expertise on Bayesian data fusion, federated learning, and the mathematics of data privacy. The full program will enjoy contributed talks, discussions, and opportunities for networking.
 
-Registration (free!) and abstract submission can be found [here](rego.qmd).
+Registration[^1] and abstract submission can be found [here](rego.qmd).
 
 
+[^1]: Registration is free but mandatory!
