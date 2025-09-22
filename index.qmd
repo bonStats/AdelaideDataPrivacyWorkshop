@@ -10,7 +10,7 @@ Organised by [Dr Joshua Bon](https://bonstats.github.io)
 
 The [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) and [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/) invite you to join the Adelaide Data Privacy Workshop held 26--27th November 2025 at the University of Adelaide.
 
-This two-day event will explore the foundations of data privacy in mathematics, statistics, and computer science. We welcome participation from researchers, students and practitioners working or interested in learning more about data privacy.
+This two-day event will explore the foundations of data privacy in mathematics, statistics, and computer science. We welcome participation from researchers, students and practitioners working in data privacy or interested in learning about data privacy.
 
 ```{r, echo = FALSE, warning = FALSE, message=FALSE}
 library(wordcloud)
