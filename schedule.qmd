@@ -1,0 +1,25 @@
+---
+title: "Workshop Schedule"
+format: 
+  html:
+    code-fold: false
+    code-tools: false
+editor: source
+---
+
+To be announced.
+
+## Wednesday 26th November
+
+| Session |     Time      |                  Title                   |    Speaker     |
+|:--------------:|:--------------:|:-------------------------------------:|:--------------:|
+| Morning | 9:30 - 12:30  |  |  |
+| Afternoon | 13:30 - 16:30 |  |  |
+
+
+## Thursday 27th November
+
+| Session |     Time      |                  Title                   |    Speaker     |
+|:--------------:|:--------------:|:-------------------------------------:|:--------------:|
+| Morning | 9:30 - 12:30  |  |  |
+| Afternoon | 13:30 - 16:30 |  |  |

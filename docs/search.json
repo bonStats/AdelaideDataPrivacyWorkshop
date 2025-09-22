@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Adelaide Data Privacy Workshop",
+    "section": "",
+    "text": "26–27th November 2025 at the University of Adelaide\nOrganised by Dr Joshua Bon\n\nThe School of Computer and Mathematical Sciences and Adelaide Data Science Centre invite you to join the Adelaide Data Privacy Workshop held 26–27th November 2025 at the University of Adelaide.\nThis two-day event will explore the foundations of data privacy in mathematics, statistics, and computer science. We welcome participation from researchers, students and practitioners working or interested in learning more about data privacy.\n\n\n\n\n\n\n\n\n\nWe are delighted to host Prof Murray Pollock (Newcastle University, UK) and Dr James Bailie (Chalmers University of Technology, Sweden), who will share their expertise on Bayesian data fusion, federated learning, and the mathematics of data privacy. The full program will enjoy contributed talks, discussions, and opportunities for networking.\nRegistration (free!) and abstract submission can be found here."
+  },
+  {
+    "objectID": "index.html#organised-by-dr-joshua-bon",
+    "href": "index.html#organised-by-dr-joshua-bon",
+    "title": "Adelaide Data Privacy Workshop",
+    "section": "Organised by Dr Joshua Bon",
+    "text": "Organised by Dr Joshua Bon\n\n\n\n\n\n\nThis workshop template\n\n\n\nThis workshop template contains 4 pages:\n\nHome: index.qmd (this page)\nAbout: about.qmd\n\nTwo content pages\n\nPage without code: part_1_prep.qmd\nPage with R code: part_2_eda.qmd\n\nIt is straightforward to add more content pages: you need to create a new .qmd file (or copy/paste the existing ones), then link the new page inside _quarto.yml.\n\n\n\n\n\n\n\n\nHomepage of your workshop\n\n\n\nThis is the homepage index.qmd for your workshop, so ideally it should contain some key information such as time and place, instructors and information of the course/workshop.\nIt should be easy to navigate."
+  },
+  {
+    "objectID": "rego.html",
+    "href": "rego.html",
+    "title": "Registration",
+    "section": "",
+    "text": "&lt;p&gt;Loading…&lt;/p&gt;"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Workshop Schedule",
+    "section": "",
+    "text": "To be announced."
+  },
+  {
+    "objectID": "schedule.html#wednesday-26th-november",
+    "href": "schedule.html#wednesday-26th-november",
+    "title": "Workshop Schedule",
+    "section": "Wednesday 26th November",
+    "text": "Wednesday 26th November\n\n\n\n\n\n\n\n\n\nSession\nTime\nTitle\nSpeaker\n\n\n\n\nMorning\n9:30 - 12:30\n\n\n\n\nAfternoon\n13:30 - 16:30"
+  },
+  {
+    "objectID": "schedule.html#thursday-27th-november",
+    "href": "schedule.html#thursday-27th-november",
+    "title": "Workshop Schedule",
+    "section": "Thursday 27th November",
+    "text": "Thursday 27th November\n\n\n\n\n\n\n\n\n\nSession\nTime\nTitle\nSpeaker\n\n\n\n\nMorning\n9:30 - 12:30\n\n\n\n\nAfternoon\n13:30 - 16:30"
+  }
+]

@@ -1,0 +1,33 @@
+---
+title: "Adelaide Data Privacy Workshop"
+---
+
+**26--27th November 2025** at the **University of Adelaide**
+
+Organised by [Dr Joshua Bon](https://bonstats.github.io)
+
+------------------------------------------------------------------------
+
+The [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) and [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/) invite you to join the Adelaide Data Privacy Workshop held 26--27th November 2025 at the University of Adelaide.
+
+This two-day event will explore the foundations of data privacy in mathematics, statistics, and computer science. We welcome participation from researchers, students and practitioners working or interested in learning more about data privacy.
+
+```{r, echo = FALSE, warning = FALSE, message=FALSE}
+library(wordcloud)
+library(RColorBrewer)
+
+words <- c("data privacy", "differential privacy", "federated learning", "homomorphic encryption", "secure multi-party computation","Bayesian statistics", "game theory", "statistical computation", "machine learning", "artificial intelligence", "Rényi DP", "zero-concentrated DP", "f-DP", "synthetic data", "randomized response", "distributed data")
+
+freq = c(100, 30, 30, 30, 15, 15, 15, 15, 15, 15, 10, 10, 10, 30, 15,15)
+
+
+wordcloud(words = words, freq = freq, scale=c(5,0.5), random.order = FALSE, random.color = TRUE,  colors=brewer.pal(8, "Dark2"), rot.per = 0)
+
+```
+
+
+We are delighted to host [Prof Murray Pollock](https://www.ncl.ac.uk/maths-physics/people/profile/murraypollock.html) (Newcastle University, UK) and [Dr James Bailie](https://jameshbailie.github.io) (Chalmers University of Technology, Sweden), who will share their expertise on Bayesian data fusion, federated learning, and the mathematics of data privacy. The full program will enjoy contributed talks, discussions, and opportunities for networking.
+
+Registration (free!) and abstract submission can be found [here](rego.qmd).
+
+
