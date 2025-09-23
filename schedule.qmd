@@ -7,19 +7,27 @@ format:
 editor: source
 ---
 
-To be announced.
+Tentative schedule. Please check for updates as we get closer to the workshop date.
 
 ## Wednesday 26th November
 
-| Session |     Time      |                  Title                   |    Speaker     |
-|:--------------:|:--------------:|:-------------------------------------:|:--------------:|
-| Morning | 9:30 - 12:30  |  |  |
-| Afternoon | 13:30 - 16:30 |  |  |
+| Session        |     Time       |                  Title                |    Speaker     |
+|:---------------|:---------------|:--------------------------------------|:---------------|
+| Morning        | 9:00 - 9:30    |  Welcome with coffee and tea          |  Joshua Bon    |
+|                | 9:30 - 10:30   |  Talk 1                               |                |
+|                | 10:30 - 12:00  |  Keynote 1 & discussion               |  James Bailie  |
+| Afternoon      | 13:30 - 14:30  |  Talk 2                               |                |
+|                | 14:30 - 15:30  |  Talk 3                               |                |
+|                | 15:30 - 16:30  |  Talk 4                               |                |
 
 
 ## Thursday 27th November
 
-| Session |     Time      |                  Title                   |    Speaker     |
-|:--------------:|:--------------:|:-------------------------------------:|:--------------:|
-| Morning | 9:30 - 12:30  |  |  |
-| Afternoon | 13:30 - 16:30 |  |  |
+| Session        |     Time       |                  Title                |    Speaker     |
+|:---------------|:---------------|:--------------------------------------|:---------------|
+| Morning        | 9:00 - 9:30    |  Coffee and tea                       |                |
+|                | 9:30 - 10:30   |  Talk 5                               |                |
+|                | 10:30 - 12:00  |  Keynote 2 & discussion               | Murray Pollock |
+| Afternoon      | 13:30 - 14:30  |  Talk 6                               |                |
+|                | 14:30 - 15:30  |  Talk 7                               |                |
+|                | 15:30 - 16:30  |  Talk 8                               |                |

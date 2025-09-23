@@ -2,13 +2,15 @@
 title: "Adelaide Data Privacy Workshop"
 ---
 
-**26--27th November 2025** at the **University of Adelaide**
+**November 26--27th, 2025** at the **University of Adelaide**
 
-Organised by [Dr Joshua Bon](https://bonstats.github.io)
+Organised by [Dr Joshua Bon](https://bonstats.github.io) 
 
 ------------------------------------------------------------------------
 
-The [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) and [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/) invite you to join the Adelaide Data Privacy Workshop held 26--27th November 2025 at the University of Adelaide.
+The [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) and [Adelaide Data Science Centre](https://set.adelaide.edu.au/adelaide-data-science-centre/) invite you to join the Adelaide Data Privacy Workshop held **26--27th November 2025** at the University of Adelaide.
+
+### Join us!
 
 This two-day event will explore the foundations of data privacy in mathematics, statistics, and computer science. We welcome participation from researchers, students, and practitioners working in data privacy or interested in learning about data privacy.
 
@@ -26,7 +28,17 @@ wordcloud(words = words, freq = freq, scale=c(5,0.5), random.order = FALSE, rand
 ```
 
 
-We are delighted to host [Prof Murray Pollock](https://www.ncl.ac.uk/maths-physics/people/profile/murraypollock.html) (Newcastle University, UK) and [Dr James Bailie](https://jameshbailie.github.io) (Chalmers University of Technology, Sweden), who will share their expertise on Bayesian data fusion, federated learning, and the mathematics of data privacy. The full program will enjoy contributed talks, discussions, and opportunities for networking.
+### Program
+
+We are delighted to host [Prof Murray Pollock](https://www.ncl.ac.uk/maths-physics/people/profile/murraypollock.html) (Newcastle University, UK) and [Dr James Bailie](https://jameshbailie.github.io) (Chalmers University of Technology, Sweden), who will share their expertise on Bayesian data fusion, federated learning, and the mathematics of data privacy. 
+
+In addition to these keynotes, the program will include contributed talks at the frontier of data privacy theory and fundamental methods that ensure data privacy.
+
+The [full program](schedule.qmd) will also enjoy opportunities for discussions and networking.
+
+
+
+### Registration and abstract submission
 
 Registration[^1] and abstract submission can be found [here](rego.qmd).
 
