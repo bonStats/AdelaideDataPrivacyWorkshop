@@ -11,21 +11,21 @@
     "href": "schedule.html#wednesday-26th-november",
     "title": "Workshop Schedule",
     "section": "Wednesday 26th November",
-    "text": "Wednesday 26th November\n\n\n\n\n\n\n\n\n\nSession\nTime\nTitle\nSpeaker\n\n\n\n\nMorning\n9:00 - 9:30\nWelcome with coffee and tea\nJoshua Bon\n\n\n\n9:30 - 10:30\nTalk 1\n\n\n\n\n10:30 - 12:00\nKeynote 1 & discussion\nJames Bailie\n\n\nAfternoon\n13:30 - 14:30\nTalk 2\n\n\n\n\n14:30 - 15:30\nTalk 3\n\n\n\n\n15:30 - 16:30\nTalk 4"
+    "text": "Wednesday 26th November\n\n\n\n\n\n\n\n\n\nSession\nTime\nTitle\nSpeaker\n\n\n\n\nMorning\n9:30 - 10:00\nWelcome with coffee and tea\nJoshua Bon\n\n\n\n10:00 - 11:00\nIntroduction to Differential Privacy\nJames Bailie\n\n\n\n11:00 - 12:00\nKeynote 1\nJames Bailie\n\n\nAfternoon\n13:30 - 14:30\nThe Randomness Complexity of Differential Privacy\nClément Canonne\n\n\n\n14:30 - 15:30\nProtecting Data Privacy in AI: Risks, Regulations, and Responsible Innovation\nMing Ding\n\n\n\n15:30 - 16:30\nTalk 4"
   },
   {
     "objectID": "schedule.html#thursday-27th-november",
     "href": "schedule.html#thursday-27th-november",
     "title": "Workshop Schedule",
     "section": "Thursday 27th November",
-    "text": "Thursday 27th November\n\n\n\n\n\n\n\n\n\nSession\nTime\nTitle\nSpeaker\n\n\n\n\nMorning\n9:00 - 9:30\nCoffee and tea\n\n\n\n\n9:30 - 10:30\nTalk 5\n\n\n\n\n10:30 - 12:00\nKeynote 2 & discussion\nMurray Pollock\n\n\nAfternoon\n13:30 - 14:30\nTalk 6\n\n\n\n\n14:30 - 15:30\nTalk 7\n\n\n\n\n15:30 - 16:30\nTalk 8"
+    "text": "Thursday 27th November\n\n\n\n\n\n\n\n\n\nSession\nTime\nTitle\nSpeaker\n\n\n\n\nMorning\n9:00 - 9:30\nCoffee and tea\n\n\n\n\n9:30 - 10:30\nDifferentially Private Statistical Inference through beta-Divergence One Posterior Sampling\nJack Jewson\n\n\n\n10:30 - 11:30\nKeynote 2\nMurray Pollock\n\n\nAfternoon\n13:30 - 14:30\nFederated Bayesian Inference with continuous-time samplers\nMatt Sutton\n\n\n\n14:30 - 15:30\nTalk 7\n\n\n\n\n15:30 - 16:30\nTalk 8"
   },
   {
     "objectID": "rego.html",
     "href": "rego.html",
     "title": "Registration",
     "section": "",
-    "text": "Registration is free but a requirement to attend! For space and coffee purposes, please email Josh (joshua.bon at adeliade dot edu dot au) if you have registered but are no longer able to join the workshop.\n\n&lt;p&gt;Loading…&lt;/p&gt;"
+    "text": "Registration\n\n\n\nRegistration for the workshop will close on Monday 17th of November.\n\n\nRegistration is free but a requirement to attend! For space and coffee purposes, please email Josh (joshua.bon at adeliade dot edu dot au) if you have registered but are no longer able to join the workshop.\n\n&lt;p&gt;Loading…&lt;/p&gt;"
   },
   {
     "objectID": "index.html",

@@ -12,6 +12,12 @@ The [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/c
 
 ### Join us!
 
+::: {.callout-important}
+## Registration
+
+Registration for the workshop will close on Monday 17th of November.
+:::
+
 This two-day event explores the foundations of data privacy across mathematics, statistics, and computer science. Researchers, students, and practitioners who work in --- or wish to learn more about --- data privacy are warmly invited to participate.
 
 ```{r, echo = FALSE, warning = FALSE, message=FALSE}
