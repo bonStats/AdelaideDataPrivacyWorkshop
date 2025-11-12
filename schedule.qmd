@@ -17,8 +17,8 @@ Tentative schedule. Please check for updates as we get closer to the workshop da
 |                | 10:00 - 11:00   |  Five Building Blocks of Differential Privacy (Introduction to Differential Privacy)                              |    James Bailie   |
 |                | 11:00 - 12:00  |  Whose data is it anyway? Towards a formal treatment of differential privacy for surveys              |  James Bailie  |
 | Afternoon      | 13:30 - 14:30  |  The Randomness Complexity of Differential Privacy  | Clément Canonne  |
-|                | 14:30 - 15:30  |  Protecting Data Privacy in AI: Risks, Regulations, and Responsible Innovation  |  Ming Ding  |
-|                | 15:30 - 16:30  |  When National Security meets Data Privacy; A Defence Science perspective  | Glenn Burgess |
+|                | 14:30 - 15:30  |  When National Security meets Data Privacy; A Defence Science perspective  |  Glenn Burgess  |
+|                | 15:30 - 16:30  |  TBA  |  |
 
 
 ## Thursday 27th November
@@ -27,7 +27,7 @@ Tentative schedule. Please check for updates as we get closer to the workshop da
 |:---------------|:---------------|:--------------------------------------|:---------------|
 | Morning        | 9:00 - 9:30    |  Coffee and tea                       |                |
 |                | 9:30 - 10:30   |  Differentially Private Statistical Inference through beta-Divergence One Posterior Sampling  |   Jack Jewson  |
-|                | 10:30 - 11:30  |  Keynote 2               | Murray Pollock |
+|                | 10:30 - 11:30  |  TBA              | Murray Pollock |
 | Afternoon      | 13:30 - 14:30  |  Federated Bayesian Inference with continuous-time samplers |  Matt Sutton   |
-|                | 14:30 - 15:30  |  Talk 7                               |                |
-|                | 15:30 - 16:30  |  Talk 8                               |                |
+|                | 14:30 - 15:30  |  Protecting Data Privacy in AI: Risks, Regulations, and Responsible Innovation  |  Ming Ding |
+|                | 15:30 - 16:30  |  TBA                              |                |
