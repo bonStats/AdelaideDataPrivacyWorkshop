@@ -9,19 +9,19 @@ editor: source
 
 Tentative schedule. Please check for updates as we get closer to the workshop date.
 
-## Wednesday 26th November
+### Wednesday 26th November
 
 | Session        |     Time       |                  Title                |    Speaker     |
 |:---------------|:---------------|:--------------------------------------|:---------------|
 | Morning        | 9:30 - 10:00    |  Welcome with coffee and tea          |  Joshua Bon    |
 |                | 10:00 - 11:00   |  Five Building Blocks of Differential Privacy (Introduction to Differential Privacy)                              |    James Bailie   |
 |                | 11:00 - 12:00  |  Whose data is it anyway? Towards a formal treatment of differential privacy for surveys              |  James Bailie  |
-| Afternoon      | 13:30 - 14:30  |  The Randomness Complexity of Differential Privacy  | Clément Canonne  |
+| Afternoon      | 13:30 - 14:30  |  Locally Private Histograms in all Privacy Regimes  | Abigail Gentle  |
 |                | 14:30 - 15:30  |  When National Security meets Data Privacy; A Defence Science perspective  |  Glenn Burgess  |
 |                | 15:30 - 16:30  |  TBA  |  |
 
 
-## Thursday 27th November
+### Thursday 27th November
 
 | Session        |     Time       |                  Title                |    Speaker     |
 |:---------------|:---------------|:--------------------------------------|:---------------|
@@ -31,3 +31,4 @@ Tentative schedule. Please check for updates as we get closer to the workshop da
 | Afternoon      | 13:30 - 14:30  |  Federated Bayesian Inference with continuous-time samplers |  Matt Sutton   |
 |                | 14:30 - 15:30  |  Protecting Data Privacy in AI: Risks, Regulations, and Responsible Innovation  |  Ming Ding |
 |                | 15:30 - 16:30  |  TBA                              |                |
+
