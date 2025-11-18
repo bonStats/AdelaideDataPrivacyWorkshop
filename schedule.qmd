@@ -27,8 +27,8 @@ Tentative schedule. Please check for updates as we get closer to the workshop da
 |:---------------|:---------------|:--------------------------------------|:---------------|
 | Morning        | 9:00 - 9:30    |  Coffee and tea                       |                |
 |                | 9:30 - 10:30   |  Differentially Private Statistical Inference through beta-Divergence One Posterior Sampling  |   Jack Jewson  |
-|                | 10:30 - 11:30  |  TBA              | Murray Pollock |
+|                | 10:30 - 11:30  |  Bayesian Fusion | Murray Pollock |
 | Afternoon      | 13:30 - 14:30  |  Federated Bayesian Inference with continuous-time samplers |  Matt Sutton   |
-|                | 14:30 - 15:30  |  Protecting Data Privacy in AI: Risks, Regulations, and Responsible Innovation  |  Ming Ding |
+|                | 14:30 - 15:30  |  Bayesian Persuasive Privacy  | Joshua Bon  |
 |                | 15:30 - 16:30  |  TBA                              |                |
 
