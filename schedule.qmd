@@ -7,7 +7,7 @@ format:
 editor: source
 ---
 
-Tentative schedule. Please check for updates as we get closer to the workshop date.
+
 
 ### Wednesday 26th November
 
